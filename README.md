@@ -24,10 +24,10 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 
 ## 🛠️ Programming Languages
 
-![Python](https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-0F766E?style=for-the-badge&logo=verilog&logoColor=white)
 ![C](https://img.shields.io/badge/C-0F766E?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0F766E?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-0F766E?style=for-the-badge&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
