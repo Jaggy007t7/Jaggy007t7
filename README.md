@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jageshwar
 
 🎓 **Electronics and Communication Engineering Undergraduate** at **NIT Goa**  
-📊 **CGPA:** 9.7  
+📊 **CGPA:** 9.07  
 ⚡ Interested in **Digital Design • FPGA Development • Computer Architecture • VLSI**
 
 ---
