@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm Jageshwar
 
 🎓 **Electronics and Communication Engineering Undergraduate (2nd Year)** at **NIT Goa**  
 📊 **CGPA:** 9.7  
@@ -91,4 +91,4 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [jaggy007t7](https://github.com/YOUR_USERNAME)
