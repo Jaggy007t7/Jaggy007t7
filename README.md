@@ -62,17 +62,6 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaggy007t7&show_icons=true&locale=en&theme=react"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaggy007t7&layout=compact&theme=react&langs_count=6"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaggy007t7&theme=react"/>
-
-</p>
 
 
 ## 📫 Connect With Me
