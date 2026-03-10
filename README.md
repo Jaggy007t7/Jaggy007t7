@@ -22,34 +22,34 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 
 ---
 
-## 🛠️ Programming Languages
+# 🛠️ Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-HDL-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-4C6EF5?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-4C6EF5?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4C6EF5?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-4C6EF5?style=for-the-badge)
 
 ---
 
-## 🔧 Tools & Technologies
+# 🔧 Tools & Technologies
 
 ### Hardware Design
-![Vivado](https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge)
-![EDA Playground](https://img.shields.io/badge/EDA-Playground-2C8EBB?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-7048E8?style=for-the-badge)
+![EDA Playground](https://img.shields.io/badge/EDA_Playground-7048E8?style=for-the-badge)
 
 ### EDA Tools
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulator-blue?style=for-the-badge)
-![GTKWave](https://img.shields.io/badge/GTKWave-Waveform-green?style=for-the-badge)
-![Verilator](https://img.shields.io/badge/Verilator-Simulator-orange?style=for-the-badge)
-![Yosys](https://img.shields.io/badge/Yosys-Synthesis-purple?style=for-the-badge)
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-7048E8?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-7048E8?style=for-the-badge)
+![Verilator](https://img.shields.io/badge/Verilator-7048E8?style=for-the-badge)
+![Yosys](https://img.shields.io/badge/Yosys-7048E8?style=for-the-badge)
 
 ### Engineering Tools
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-PCB-314CB0?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-7048E8?style=for-the-badge&logo=Mathworks&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-7048E8?style=for-the-badge)
 
 ---
 
-## 📚 Areas of Interest
+# 📚 Areas of Interest
 
 - Digital System Design  
 - FPGA Development  
@@ -59,15 +59,15 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Jageshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaggy007t7&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaggy007t7&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaggy007t7&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-💻 GitHub: https://github.com/jaggy007t7  
+📧 Email: kumarjageshwar007t7@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
