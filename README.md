@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jageshwar
 
-🎓 **Electronics and Communication Engineering Undergraduate (2nd Year)** at **NIT Goa**  
+🎓 **Electronics and Communication Engineering Undergraduate** at **NIT Goa**  
 📊 **CGPA:** 9.7  
 ⚡ Interested in **Digital Design • FPGA Development • Computer Architecture • VLSI**
 
@@ -12,11 +12,11 @@ I am an undergraduate student passionate about **hardware design and low-level s
 
 My interests include:
 
-- RTL Design
-- FPGA Development
-- Computer Architecture
-- Hardware-Software Co-Design
-- Open-Source EDA Tools
+- RTL Design  
+- FPGA Development  
+- Computer Architecture  
+- Hardware-Software Co-Design  
+- Open-Source EDA Tools  
 
 I enjoy building projects that combine **digital logic, embedded systems, and software**.
 
@@ -35,10 +35,11 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 
 ### Hardware Design
 ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge)
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulator-blue?style=for-the-badge)
-![GTKWave](https://img.shields.io/badge/GTKWave-Waveform-green?style=for-the-badge)
+![EDA Playground](https://img.shields.io/badge/EDA-Playground-2C8EBB?style=for-the-badge)
 
 ### EDA Tools
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-Simulator-blue?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-Waveform-green?style=for-the-badge)
 ![Verilator](https://img.shields.io/badge/Verilator-Simulator-orange?style=for-the-badge)
 ![Yosys](https://img.shields.io/badge/Yosys-Synthesis-purple?style=for-the-badge)
 
@@ -58,37 +59,15 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 
 ---
 
-## 📂 Current Focus
-
-- Designing digital systems using **Verilog**
-- FPGA development using **Vivado**
-- Exploring **open-source EDA tools**
-- Building hardware projects
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Jageshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaggy007t7&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔭 Future Goals
-
-- Build complex **FPGA-based systems**
-- Design a **RISC-V processor**
-- Contribute to **open-source hardware projects**
-- Pursue advanced research in **computer architecture / VLSI**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaggy007t7&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-💻 GitHub: https://github.com/YOUR_USERNAME  
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-
----
-
-⭐ From [jaggy007t7](https://github.com/YOUR_USERNAME)
+💻 GitHub: https://github.com/jaggy007t7  
+🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
