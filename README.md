@@ -27,25 +27,28 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 ![Python](https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-0F766E?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0F766E?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-0F766E?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-0F766E?style=for-the-badge&logo=verilog&logoColor=white)
 
 ---
 
 ## 🔧 Tools & Technologies
 
 ### Hardware Design
-![Vivado](https://img.shields.io/badge/Vivado-0891B2?style=for-the-badge)
-![EDA Playground](https://img.shields.io/badge/EDA_Playground-0891B2?style=for-the-badge)
+
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-0891B2?style=for-the-badge&logo=xilinx&logoColor=white)
+![EDA Playground](https://img.shields.io/badge/EDA_Playground-0891B2?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### EDA Tools
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-0891B2?style=for-the-badge)
-![GTKWave](https://img.shields.io/badge/GTKWave-0891B2?style=for-the-badge)
-![Verilator](https://img.shields.io/badge/Verilator-0891B2?style=for-the-badge)
-![Yosys](https://img.shields.io/badge/Yosys-0891B2?style=for-the-badge)
+
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-0891B2?style=for-the-badge&logo=verilog&logoColor=white)
+![GTKWave](https://img.shields.io/badge/GTKWave-0891B2?style=for-the-badge&logo=gnu&logoColor=white)
+![Verilator](https://img.shields.io/badge/Verilator-0891B2?style=for-the-badge&logo=opensourcehardware&logoColor=white)
+![Yosys](https://img.shields.io/badge/Yosys-0891B2?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 ### Engineering Tools
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-0891B2?style=for-the-badge&logo=Mathworks&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-0891B2?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-0891B2?style=for-the-badge&logo=kicad&logoColor=white)
 
 ---
 
