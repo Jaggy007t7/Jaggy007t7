@@ -14,9 +14,7 @@ My interests include:
 
 - RTL Design  
 - FPGA Development  
-- Computer Architecture  
-- Hardware-Software Co-Design  
-- Open-Source EDA Tools  
+- Computer Organization and Architecture
 
 I enjoy building projects that combine **digital logic, embedded systems, and software**.
 
@@ -57,7 +55,6 @@ I enjoy building projects that combine **digital logic, embedded systems, and so
 - Digital System Design  
 - FPGA Development  
 - Computer Architecture  
-- VLSI Design  
 - Hardware Acceleration  
 
 ---
