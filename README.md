@@ -12,8 +12,8 @@ I'm an undergrad passionate about **hardware design** — from RTL to FPGA.
 Currently focused on **RTL design & verification** using open-source EDA tools (Yosys, Verilator).  
 Aiming to build a strong foundation in **computer architecture** and **hardware acceleration**.
 
-
 ---
+
 ## 🛠️ Programming Languages
 
 ![Verilog](https://img.shields.io/badge/Verilog-3178C6?style=for-the-badge&logo=verilog&logoColor=white)
@@ -41,12 +41,14 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 
 ![pyuvm](https://img.shields.io/badge/pyuvm-3B82F6?style=for-the-badge&logo=python&logoColor=white)
 ![cocotb](https://img.shields.io/badge/cocotb-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9Ijk1IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTUwIDUwaDEwMHYxMDBINTB6IiBmaWxsPSIjMDA5OTAwIi8+PHRleHQgeD0iMTAwIiB5PSIxMjAiIGZvbnQtc2l6ZT0iNjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmYiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiPmNjPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
+
 > *Python-based verification: pyuvm (UVM methodology) + cocotb (cosimulation & testbench automation)*
 
 ### 📐 Engineering Tools
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+
 ---
 
 ## 📈 GitHub Stats
@@ -59,6 +61,3 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
   <sub>🔥 Daily streak & total contributions — updated in real time</sub>
   
 </div>
-
-
----
