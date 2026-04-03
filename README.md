@@ -62,10 +62,3 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 
 
 ---
-
-## 📫 Let's Connect
-
-📧 **Email:** [kumarjageshwar007t7@gmail.com](mailto:kumarjageshwar007t7@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/jageshwar-kumar](https://linkedin.com/in/YOUR_LINKEDIN)  
-
----
