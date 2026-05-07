@@ -55,7 +55,7 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaggy007t7&theme=dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" alt="Jageshwar's GitHub Streak" width="65%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaggy007t7&theme=dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&cache_seconds=1800" alt="Jageshwar's GitHub Streak" width="65%" />
   
   <br />
   <sub>🔥 Daily streak & total contributions — updated in real time</sub>
