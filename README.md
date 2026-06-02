@@ -14,28 +14,31 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 
 ---
 
-## 🛠️ Programming Languages
+## 💻 Tech Stack
+
+### 💾 Programming Languages
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+### ⚙️ Hardware Description Languages (HDL)
 
 ![Verilog](https://img.shields.io/badge/Verilog-3178C6?style=for-the-badge&logo=verilog&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🔧 Tools & Technologies
 
-### 💻 Hardware Design
+### ⚙️ EDA & Hardware Design
 
 ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E20129?style=for-the-badge&logo=xilinx&logoColor=white)
-![EDA Playground](https://img.shields.io/badge/EDA_Playground-FF7F50?style=for-the-badge&logo=codeforces&logoColor=white)
-
-### ⚙️ EDA Tools
-
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-FFB800?style=for-the-badge&logo=verilog&logoColor=black)
 ![GTKWave](https://img.shields.io/badge/GTKWave-00A859?style=for-the-badge&logo=gnu&logoColor=white)
 ![Verilator](https://img.shields.io/badge/Verilator-9333EA?style=for-the-badge&logo=opensourcehardware&logoColor=white)
 ![Yosys](https://img.shields.io/badge/Yosys-EC4899?style=for-the-badge&logo=yosys&logoColor=white)
+![EDA Playground](https://img.shields.io/badge/EDA_Playground-FF7F50?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ### ✅ Verification for Digital Design
 
@@ -44,20 +47,33 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 
 > *Python-based verification: pyuvm (UVM methodology) + cocotb (cosimulation & testbench automation)*
 
-### 📐 Engineering Tools
+### 📐 Engineering & Dev Tools
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=jaggy007t7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=0891B2&title_color=0891B2&text_color=ffffff&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=jaggy007t7&theme=dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaggy007t7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0891B2&text_color=ffffff&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaggy007t7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaggy007t7&theme=dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&cache_seconds=1800" alt="Jageshwar's GitHub Streak" width="65%" />
-  
-  <br />
-  <sub>🔥 Daily streak & total contributions — updated in real time</sub>
+  <i>“The hardware is the soul, the software is the voice.”</i>
   
 </div>
