@@ -58,7 +58,6 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=jaggy007t7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=0891B2&title_color=0891B2&text_color=ffffff&include_all_commits=false&count_private=false)
@@ -74,6 +73,6 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 
 <div align="center">
   
-  <i>“The hardware is the soul, the software is the voice.”</i>
+  <strong style="font-size: 8em;">The hardware is the soul, the software is the voice.</strong>
   
 </div>
