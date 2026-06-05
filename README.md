@@ -57,15 +57,32 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=jaggy007t7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=0891B2&title_color=0891B2&text_color=ffffff&include_all_commits=false&count_private=false)
+<table>
+<tr>
+<td width="50%">
 
-![](https://streak-stats.demolab.com/?user=jaggy007t7&theme=dark&hide_border=true&background=0D1117&stroke=0891B2&ring=0891B2&fire=0891B2&currStreakLabel=0891B2)
+<img width="100%" height="220px"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaggy007t7&theme=dark&hide_border=false&border_color=58A6FF&layout=donut&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaggy007t7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0891B2&text_color=ffffff&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaggy007t7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</td>
+
+<td width="50%">
+
+<img width="100%" height="220px"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaggy007t7&theme=github_dark"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="98%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=jaggy007t7&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=false&custom_title=Jaggy's%20Contribution%20Graph"/>
 
 </div>
 
