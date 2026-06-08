@@ -77,6 +77,20 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<h3 align="center" style="color:#58A6FF;">
+⚡ Streak Zone
+</h3>
+
+<img width="98%" height="220px"
+src="https://streak-stats.demolab.com?user=jaggy007t7&theme=github-dark-blue&hide_border=false&background=0D1117&border=58A6FF&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&sideNums=C9D1D9&currStreakNum=FFFFFF"/>
+
+</td>
+</tr>
+
 </table>
 
 <br>
@@ -89,7 +103,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=jaggy007t7&b
 ---
 
 <div align="center">
-  
-  <strong style="font-size: 8em;">The hardware is the soul, the software is the voice.</strong>
-  
+
+<strong style="font-size: 8em;">
+The hardware is the soul, the software is the voice.
+</strong>
+
 </div>
