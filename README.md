@@ -8,9 +8,7 @@
 
 ## 🧠 About Me
 
-I'm an undergrad passionate about **hardware design** — from RTL to FPGA.  
-Currently focused on **RTL design & verification** using open-source EDA tools (Yosys, Verilator).  
-Aiming to build a strong foundation in **computer architecture** and **hardware acceleration**.
+Undergraduate student in Electronics and Communication Engineering at the National Institute of Technology Goa, with research interests in FPGA-based systems, RTL design, hardware acceleration, embedded systems, and hardware-software co-design. Experienced in developing digital hardware architectures using Verilog HDL and exploring efficient FPGA implementations for real-time applications.
 
 ---
 
@@ -21,7 +19,7 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Tcl](https://img.shields.io/badge/Tcl-%2300599C.svg?style=for-the-badge&logo=tcl&logoColor=white)
 
 ### ⚙️ Hardware Description Languages (HDL)
 
@@ -31,14 +29,34 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 
 ## 🔧 Tools & Technologies
 
+---
+
 ### ⚙️ EDA & Hardware Design
 
 ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E20129?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vitis](https://img.shields.io/badge/Xilinx_Vitis-005C9E?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-FFB800?style=for-the-badge&logo=verilog&logoColor=black)
 ![GTKWave](https://img.shields.io/badge/GTKWave-00A859?style=for-the-badge&logo=gnu&logoColor=white)
 ![Verilator](https://img.shields.io/badge/Verilator-9333EA?style=for-the-badge&logo=opensourcehardware&logoColor=white)
 ![Yosys](https://img.shields.io/badge/Yosys-EC4899?style=for-the-badge&logo=yosys&logoColor=white)
 ![EDA Playground](https://img.shields.io/badge/EDA_Playground-FF7F50?style=for-the-badge&logo=codeforces&logoColor=white)
+
+---
+
+### 🧪 Hardware Platforms
+
+#### 🧩 FPGA Development Boards
+![PYNQ-Z2](https://img.shields.io/badge/PYNQ--Z2-6A1B9A?style=for-the-badge&logo=amd&logoColor=white)
+
+#### ⚡ SoC Platforms (FPGA + ARM)
+![Zynq-7000 SoC](https://img.shields.io/badge/Zynq--7000_SoC-E20129?style=for-the-badge&logo=amd&logoColor=white)
+![Zynq UltraScale+](https://img.shields.io/badge/Zynq_UltraScale%2B-0033AD?style=for-the-badge&logo=amd&logoColor=white)
+
+#### 📟 Microcontrollers & Embedded Boards
+![ESP32](https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
 
 ### ✅ Verification for Digital Design
 
@@ -46,6 +64,8 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 ![cocotb](https://img.shields.io/badge/cocotb-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIj48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9Ijk1IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTUwIDUwaDEwMHYxMDBINTB6IiBmaWxsPSIjMDA5OTAwIi8+PHRleHQgeD0iMTAwIiB5PSIxMjAiIGZvbnQtc2l6ZT0iNjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmYiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiPmNjPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
 
 > *Python-based verification: pyuvm (UVM methodology) + cocotb (cosimulation & testbench automation)*
+
+---
 
 ### 📐 Engineering & Dev Tools
 
@@ -56,7 +76,6 @@ Aiming to build a strong foundation in **computer architecture** and **hardware 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
