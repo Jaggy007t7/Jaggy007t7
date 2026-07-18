@@ -24,6 +24,7 @@ Undergraduate student in Electronics and Communication Engineering at the Nation
 ### ⚙️ Hardware Description Languages (HDL)
 
 ![Verilog](https://img.shields.io/badge/Verilog-3178C6?style=for-the-badge&logo=verilog&logoColor=white)
+![System Verilog](https://img.shields.io/badge/System%20Verilog-3178C6?style=for-the-badge&logo=verilog&logoColor=white)
 
 ---
 
