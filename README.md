@@ -107,15 +107,15 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <img width="98%" height="220px"
 src="https://streak-stats.demolab.com?user=jaggy007t7&theme=github-dark-blue&hide_border=false&background=0D1117&border=58A6FF&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&sideNums=C9D1D9&currStreakNum=FFFFFF"/>
 
-</td>
-</tr>
+<!-- </td> -->
+<!-- </tr> -->
 
-</table>
+<!-- </table>
 
 <br>
 
 <img width="98%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=jaggy007t7&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=false&custom_title=Jaggy's%20Contribution%20Graph"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=jaggy007t7&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=false&custom_title=Jaggy's%20Contribution%20Graph"/> -->
 
 </div>
 
