@@ -37,7 +37,6 @@ Undergraduate student in Electronics and Communication Engineering at the Nation
 ![Vitis](https://img.shields.io/badge/Xilinx_Vitis-005C9E?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-FFB800?style=for-the-badge&logo=verilog&logoColor=black)
 ![GTKWave](https://img.shields.io/badge/GTKWave-00A859?style=for-the-badge&logo=gnu&logoColor=white)
-![Verilator](https://img.shields.io/badge/Verilator-9333EA?style=for-the-badge&logo=opensourcehardware&logoColor=white)
 ![Yosys](https://img.shields.io/badge/Yosys-EC4899?style=for-the-badge&logo=yosys&logoColor=white)
 ![EDA Playground](https://img.shields.io/badge/EDA_Playground-FF7F50?style=for-the-badge&logo=codeforces&logoColor=white)
 
